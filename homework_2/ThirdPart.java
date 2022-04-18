@@ -1,6 +1,5 @@
 public class ThirdPart {
     final static String ROUNDS_PER_MINUTE = "15000rpm";
-    /
     // final means it cannot be changed after declaration
     // and we need to initialize it immediately after declaring it.
     public static void main(String[] args) {
